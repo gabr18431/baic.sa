@@ -255,7 +255,7 @@
     }
 } */
 @media (max-width: 992px) {
-    #Contact {
+    #Contact .container {
         min-height: 400px;
     }
     .banner-btn {
