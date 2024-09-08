@@ -258,6 +258,9 @@
     #Contact .container {
         min-height: 400px;
     }
+    .banner .banner-item {
+        height: 400px;
+    }
     .banner-btn {
         display: flex;
         flex-wrap: wrap;
