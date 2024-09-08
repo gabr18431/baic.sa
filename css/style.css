@@ -259,7 +259,7 @@
         min-height: 400px;
     }
     .banner .banner-item {
-        height: 400px;
+        height: 400px !important;
     }
     .banner-btn {
         display: flex;
