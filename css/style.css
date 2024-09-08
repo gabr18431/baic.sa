@@ -249,9 +249,19 @@
     background-color: var(--bs-primary);
 }
 
-@media (max-width: 992px) {
+/* @media (max-width: 992px) {
     .carousel-indicators [data-bs-target] {
         display: none;
+    }
+} */
+@media (max-width: 992px) {
+    #Contact {
+        min-height: 400px;
+    }
+    .banner-btn {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
     }
 }
 /*** Carousel Header End ***/
